@@ -33,7 +33,7 @@ Full CRUD Application
 ## Repository Structure
 
 ```text
-react-router-learning/
+react-router-projects/
 │
 ├── project-1-multi-page-spa/
 │
